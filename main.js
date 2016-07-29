@@ -6,4 +6,4 @@ function sayHi(){
 	return "Hi";
 }
 
-module.exports = {hello};
+module.exports = {hello, sayHi};
